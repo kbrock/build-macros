@@ -4,6 +4,7 @@ class ImagesController < ApplicationController
   def show
     respond_to do |format|
       format.text { render :text => random_image }
+      format.jpg { redirect_to random_image }
       format.html { render :text => %(<image src="#{random_image}"/>) }
     end
   end
