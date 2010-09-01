@@ -2,6 +2,6 @@ At patientslikeme.com we have an automated build.  Sometimes it breaks but event
 
 To contribute, fork and add to config/fail.txt or config/win.txt accordingly and send a pull request.  Let's keep it jpgs for now.
 
-Some images may feature profanity and/or mocking of juggalos.  You have been warned.
+Some images may feature profanity and/or mocking of juggalos (and maybe someday we'll even have a juggalolcat).  You have been warned.
 
 You can see the app in action at http://build-macros.heroku.com/
